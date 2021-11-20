@@ -1,2 +1,3 @@
 # remote
-Belajar remote git
+Assalamualaikum
+hari ini indah sekali :)
